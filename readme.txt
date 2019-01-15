@@ -1,0 +1,1 @@
+This is an informative website containing the summaries of several great authors, that humanity had known, written in Russian language.
